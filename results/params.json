@@ -1,0 +1,4 @@
+{"duration": "45s", "repeats": 3, "rate": 5000, "vus": 192, "net_delay_us": 500,
+ "stacks": "classic modern-1cpu modern-3cpu modern-notify", "scenarios": "write_rate write_max mixed",
+ "host_cpus": 12, "host_mem_bytes": 16818667520,
+ "docker": "29.8.2", "date": "2026-11-17T15:36:34Z"}

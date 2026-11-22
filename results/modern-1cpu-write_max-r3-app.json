@@ -1,0 +1,1 @@
+{"drain_seconds": "1", "attempt": 1, "api": {"created":670171,"errors":0,"mode":"modern","publish_errors":0}, "worker": {"batches":15659,"e2e_latency":{"count":670171,"avg_ms":19.13916383579713,"p50_ms":18.274,"p95_ms":26.342,"p99_ms":34.073,"max_ms":234.525},"errors":0,"mode":"modern","processed":670171}}
